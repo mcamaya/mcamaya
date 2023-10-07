@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-I am currently pursuing a career as a web developer at Campus, a high-performance training center. I am eager to enhance my skills and advance professionally, and I am currently focused on learning Javascript and PHP. Outside of work, I enjoy nature, art, and meeting new people.
+I am currently pursuing a career as a web developer at Campus, a high-performance training center. I am eager to enhance my skills and advance professionally, and I am currently focused on learning Node.js and React. Outside of work, I enjoy nature, art, and meeting new people.
 
 
 ## 🌐 Socials:
